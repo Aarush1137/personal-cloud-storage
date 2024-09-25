@@ -151,7 +151,7 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 Author: Aarush  
-Email: your.email@example.com  
+Email: aarushjain890@gmail.com 
 GitHub: [Aarush1137](https://github.com/Aarush1137)  
 Made with ❤️ by Aarush
 
